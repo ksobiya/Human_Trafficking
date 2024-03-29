@@ -7,7 +7,7 @@ Link: Human Trafficking Dashboard
 * [Tableau Dashboard](#Tableau-dashboard)
 * [Motivation](#motivation)
 * [Questions](#questions)
-* [Data Sources](#Data Sources)
+* [Sources](#sources)
 * [Technologies Used](#technologies-used)
 * [Conclusion](#conclusion)
 
@@ -19,7 +19,7 @@ Which countries are at high risk for human trafficking in terms of both inflow a
 What are the primary factors contributing to human trafficking?
 What are the most common forms of human trafficking, and what are victims trafficked for the most?
 Which gender and age groups are most vulnerable to human trafficking?
-## Data Sources:
+## Sources:
  * The analysis utilizes data primarily sourced from the CTDC Global dataset, which provides comprehensive information on human trafficking incidents worldwide. Additionally, latitude and longitude data for geospatial analysis were sourced from GitHub repositories specializing in geographical datasets.
 
  * Latitude and Longitude Data (GitHub)
