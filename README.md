@@ -10,6 +10,7 @@ Link: Human Trafficking Dashboard
 * [Questions](#questions)
 * [Sources](#sources)
 * [Technologies Used](#technologies-used)
+* [Challenges Faced](#challenges-faced)
 * [Conclusion](#conclusion)
 
 ## Motivation:
